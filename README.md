@@ -16,7 +16,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 > This is our main repository for the HackBio'2021 Virtual Internship Experience for #Team-Greider. <br>
-Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
+Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
 
 # 💬 For participants
 ## Goals (Stage 0):
@@ -47,20 +47,18 @@ Human text is an excellent example of unstructured data. Desired fields (for thi
 ```bash
 NAME: *Your full name*
 E-MAIL: *Your e-mail* 
-USED LANGUAGE: *Name of used scripted language. All letters are capital*
-BIOSTACK: *Name of biostack you chose. The only first letter is capital* 
 SLACK USERNAME: @+*username*
+BIOSTACK: *Name of biostack you chose. The only first letter is capital* 
 ```
 An example:
 ```bash
 NAME: Siddhant Sharma
 E-MAIL: siddhaantsharma.ss@gmail.com
-USED LANGUAGE: JULIA
-BIOSTACK: Genomics
 SLACK USERNAME: @siddhant
+BIOSTACK: Genomics
 ```
 **After you get the desired output, please name your file _stage_0_slack-username_ <br> An example:** 
-`stage_0_siddhant.jl `
+`stage_0_Siddhant.R`
 
 ## 🚀 Contributing
 

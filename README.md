@@ -54,7 +54,7 @@ SLACK USERNAME: @+*username*
 An example:
 ```bash
 NAME: Siddhant Sharma
-E-MAIL: sharmasi@chalmers.se
+E-MAIL: siddhaantsharma.ss@gmail.com
 USED LANGUAGE: JULIA
 BIOSTACK: Genomics
 SLACK USERNAME: @siddhant

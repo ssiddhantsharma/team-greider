@@ -1,8 +1,8 @@
 name ="Ajayi Grace"
 email = "gracejeta08@gmail.com"
-slack_username = "@grace"
+slack_user_name = "@grace"
 biostack = "genomics"
-print(name)
-print(email)
-print(slack_username)
-print(biostack)
+print("NAME: "+name)
+print("EMAIL: "+email)
+print("SLACK_USERNAME: "+slack_user_name)
+print("BIOSTACK: "+biostack)

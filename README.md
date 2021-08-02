@@ -65,12 +65,4 @@ BIOSTACK: Genomics
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** 🎉
 *Working on your first Pull Request? [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)*
 
-1. Clone the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 Thanks! ❤️
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)

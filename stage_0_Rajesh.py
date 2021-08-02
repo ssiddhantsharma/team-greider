@@ -3,5 +3,5 @@
 name="Rajesh_chavhan"
 email="rajshrichavhan15@gmail.com"
 slackuser="@Rajesh"
-biostack="genomics"
+biostack="Transcriptomics"
 print(f"{name}, {email},{slackuser},{biostack}")

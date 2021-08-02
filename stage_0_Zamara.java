@@ -1,7 +1,7 @@
 /******************************************************************************
 //ZAMARA
 *******************************************************************************/
-//HackBio Assignement
+//HackBio Assignment
 public class Main
 {
 	public static void main(String[] args) {

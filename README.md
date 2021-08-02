@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, We are Team-Greider💝</h1>
-<h3 align="left">The team of 22 people for HackBio'2021 Virtual Bioinformatics Internship 🖨️</h3>
+<h3 align="left">The team of 20 people for HackBio'2021 Virtual Bioinformatics Internship 🖨️</h3>
 
 - 👨‍💻 HackBio Channel [https://thehackbio.com](https://thehackbio.com/)
 

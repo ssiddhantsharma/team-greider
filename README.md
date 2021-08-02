@@ -18,22 +18,6 @@
 > This is our main repository for the HackBio'2021 Virtual Internship Experience for #Team-Greider. <br>
 Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
 
-# 💬 For participants
-## Goals (Stage 0):
-* Make this documentation neat and nice. (Novice Friendly)
-* Complete task 2 (multiple languages)
-* Make a simple bash script for git commit
-
-## Language check
-- [] Python
-- [] Julia
-- [] C++
-- [] R 
-- [] Java
-- [] MATLAB
-- [] Javascript 
-- [] C
-
 ## I am not a coder, what should I choose?
 Everyone began from something (: Actually the language in this task doesn't matter, as the script is very simple.
 You can search smth similar to "write hello world script in *language_of_interest* ".

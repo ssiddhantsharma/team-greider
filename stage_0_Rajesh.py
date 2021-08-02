@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #my personal details
-name="Rajesh_chavhan"
-email="rajshrichavhan15@gmail.com"
-slackuser="@Rajesh"
-biostack="genomics"
-print(f"{name}, {email},{slackuser},{biostack}")
+print ('NAME : Rajesh_chavhan')
+print ('E-MAIL: rajshrichavhan15@gmail.com')
+print ('SLACK USERNAME: @Rajesh')
+print ('BIOSTACK: Genomics')

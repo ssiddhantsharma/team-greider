@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, We are Team-Greider💝</h1>
-<h3 align="left">The team of 22 people for HackBio'2021 Virtual Bioinformatics Internship 🖨️</h3>
+<h3 align="left">The team of 20 people for HackBio'2021 Virtual Bioinformatics Internship 🖨️</h3>
 
 - 👨‍💻 HackBio Channel [https://thehackbio.com](https://thehackbio.com/)
 
@@ -17,22 +17,6 @@
 
 > This is our main repository for the HackBio'2021 Virtual Internship Experience for #Team-Greider. <br>
 Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
-
-# 💬 For participants
-## Goals (Stage 0):
-* Make this documentation neat and nice. (Novice Friendly)
-* Complete task 2 (multiple languages)
-* Make a simple bash script for git commit
-
-## Language check
-- [] Python
-- [] Julia
-- [] C++
-- [] R 
-- [] Java
-- [] MATLAB
-- [] Javascript 
-- [] C
 
 ## I am not a coder, what should I choose?
 Everyone began from something (: Actually the language in this task doesn't matter, as the script is very simple.
@@ -65,12 +49,4 @@ BIOSTACK: Genomics
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** 🎉
 *Working on your first Pull Request? [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)*
 
-1. Clone the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 Thanks! ❤️
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)

@@ -86,14 +86,14 @@ Desired fields (for this task) can be printed out in many different ways. Theref
 NAME: *Your full name*
 E-MAIL: *Your e-mail* 
 SLACK USERNAME: @+*username*
-BIOSTACK: *Name of biostack you chose. The only first letter is capital* 
+BIOSTACK: *Name of biostack you chose*
 ```
 An example:
 ```bash
 NAME: Siddhant Sharma
 E-MAIL: siddhaantsharma.ss@gmail.com
 SLACK USERNAME: @siddhant
-BIOSTACK: Genomics
+BIOSTACK: Medicinal Chemistry and Cheminformatics
 ```
 **After you get the desired output, please name your file _stage_0_slack-username_ <br> An example:** 
 `stage_0_Siddhant.R`

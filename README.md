@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 🤟 #Team-Greider ⚗️ </h1>
+<h1 align="center"> Hello 🤟 #Team-Greider </h1>
 <h3 align="center">The team of 20 people for HackBio'2021 Virtual Bioinformatics Internship 💝 🖨️</h3>
 
 - 👨‍💻 HackBio: [https://thehackbio.com](https://thehackbio.com/)
@@ -64,7 +64,7 @@ wget https://raw.githubusercontent.com/ssiddhantsharma/team-greider/master/csv-p
 
 ![Terminal](Images/carbon(1).png) <br>
 
-## Languages
+## ⚗️Languages
 - [x] Python
 - [x] Julia
 - [x] C++

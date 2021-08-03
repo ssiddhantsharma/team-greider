@@ -54,7 +54,7 @@ sudo apt-get update && sudo apt-get install python octave julia gcc g++ r nodejs
 
 # 📎 Workflow 
 
-![WorkFlow_HackBio](WorkFlow.png) <br>
+![WorkFlow_HackBio'21](workFlow.png) <br>
 
 # 🔧 Usage 
 The main goal of the project is to create a bash script that will clone the repo and produce a csv file with the participants' personal information. For this goal no installation is required, however check if all dependencies are satisfied. Please download the following script `csv-populator.sh`. Downloading and running the script can be done from a terminal with the following command:

@@ -25,7 +25,7 @@
 > This is the main repository for the Stage_0 task for the HackBio'2021 Virtual Internship Experience for #Team-Greider. <br>
 The Main goal of the project is write small scripts in different languages with the output: `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) ysing different scripts. All members of the team will fork the Github Repository and make the neccesary commits for task for Stage_0. This README.md contains all the necessary information to replicate the workflows for this task. <br>
 
-# 🤖 Getting Started
+# 🧬 Getting Started
 ## Prerequisites 
 - [Julia language](https://julialang.org/)
 - [Octave](https://www.gnu.org/software/octave/)
@@ -36,7 +36,7 @@ The Main goal of the project is write small scripts in different languages with 
 - Linux (awk command must be recognisable in shell)
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-## 🎨 Running the tests
+## 💻 Running the tests
 
 ### Check if dependencies are satisfied
 
@@ -52,7 +52,7 @@ The above command will download only the target script and check if all required
 sudo apt-get update && sudo apt-get install python octave julia gcc g++ r nodejs npm
 ```
 
-# 📜 Workflow 
+# 📎 Workflow 
 
 ![WorkFlow_HackBio](WorkFlow.png) <br>
 

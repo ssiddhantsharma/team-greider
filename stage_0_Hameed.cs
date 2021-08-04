@@ -1,6 +1,6 @@
 using System;
 
-namespace TEAM-GREIDER
+namespace Hello
 {
     class Program
     {
@@ -11,16 +11,28 @@ namespace TEAM-GREIDER
                 name = "Hameed Sanusi",
                 email = "sanusihameedolayiwola@gmail.com",
                 slackUsername = "@Hameed",
-                bioStack = "Drugdevelopment"
+                twitterUsername = "@hamood",
+                bioStack = "Drug development"
             };
-            Console.WriteLine(myself.name.ToString());
-            Console.WriteLine(myself.email.ToString());
-            Console.WriteLine(myself.slackUsername.ToString());
-            Console.WriteLine(myself.bioStack.ToString());
+            Console.WriteLine(myself.name + "\n" + myself.email
+                + "\n" + myself.slackUsername + "\n" + myself.twitterUsername + "\n" + myself.bioStack);
+            Console.WriteLine("Hamming_distance: " + computeHammingDistance(myself.slackUsername, myself.twitterUsername));
+
 
         }
+        private static int computeHammingDistance(string slack, string twitter) {
+            int distance = 0;
 
-      
+            for (int i = 0; i < slack.Length; i++) {
+
+                if (slack.ToLower()[i] != twitter.ToLower()[i]) {
+                    distance++;
+                }
+               
+            }
+            return distance;
+        
+        }
     }
 }
 

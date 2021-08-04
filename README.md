@@ -10,7 +10,7 @@
 - 📫 How to reach us? **siddhaantsharma.ss@gmail.com**
 
 <p align="center">
-<a href="https://twitter.com/TheHackbio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tbi_internship" height="20" width="20" /></a> </p>
+<a href="https://twitter.com/TheHackbio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" /></a> </p>
 
 # Team-Greider
 
@@ -55,6 +55,7 @@ sudo apt-get update && sudo apt-get install python octave julia gcc g++ r nodejs
 # 📎 Workflow 
 
 ![WorkFlowHackBio](https://github.com/ssiddhantsharma/team-greider/blob/main/workflow.png) <br>
+![WorkFlowHackBio](https://github.com/ssiddhantsharma/team-greider/blob/main/workflow2.png) <br>
 
 # 🔧 Usage 
 The main goal of the project is to create a bash script that will clone the repo and produce a csv file with the participants' personal information. For this goal no installation is required, however check if all dependencies are satisfied. Please download the following script `csv-populator.sh`. Downloading and running the script can be done from a terminal with the following command:

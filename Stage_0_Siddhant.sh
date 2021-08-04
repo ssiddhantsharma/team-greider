@@ -1,7 +1,8 @@
-name='Siddhant Sharma'
-email='siddhaantsharma.ss@gmail.com'
-slackuser='@Siddhant'
-biostack='Medicinal chemistry and cheminformatics'
-twitter='@ssiddhant_'
+NAME='Siddhant Sharma'
+EMAIL='siddhaantsharma.ss@gmail.com'
+SLACKUSER='@Siddhant'
+BIOSTACK='Medicinal chemistry and cheminformatics'
+TWITTER='@sidd2508'
+HAMMINGD='5'
 
-echo $name','$email', '$slackuser', $biostack','$twitter
+echo $NAME','$EMAIL', '$SLACKUSER', '$BIOSTACK','$TWITTER', '$HAMMINGD

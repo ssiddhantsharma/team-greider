@@ -66,13 +66,15 @@ wget https://raw.githubusercontent.com/ssiddhantsharma/team-greider/master/csv-p
 ![Terminal](Images/carbon(1).png) <br>
 
 ## ⚗️Languages
-- [x] Python
-- [x] Julia
-- [x] C++
-- [x] R 
-- [x] Java
-- [x] Javascript 
-- [x] C
+- [x] Python - .py
+- [x] Julia  - .jl
+- [x] C++ - .cpp
+- [x] C# - .cs
+- [x] Java - .java
+- [x] MATLAB - .m
+- [x] C - .c
+- [x] R - .R
+- [x] Ruby - .rb
 
 ## I am a newbie...
 Everyone began from something (: Actually the language in this task doesn't matter, as the script is very simple.

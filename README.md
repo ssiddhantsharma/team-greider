@@ -90,6 +90,8 @@ NAME: *Your full name*
 E-MAIL: *Your e-mail* 
 SLACK USERNAME: @+*username*
 BIOSTACK: *Name of biostack you chose*
+TWITTER: @+*username*
+HAMMING DISTANCE: *distance*
 ```
 An example:
 ```bash
@@ -97,6 +99,8 @@ NAME: Siddhant Sharma
 E-MAIL: siddhaantsharma.ss@gmail.com
 SLACK USERNAME: @siddhant
 BIOSTACK: Medicinal Chemistry and Cheminformatics
+TWITTER: @sidd2508
+HAMMING DISTANCE: 4
 ```
 **After you get the desired output, please name your file _stage_0_slack-username_ <br> An example:** 
 `stage_0_Siddhant.R`

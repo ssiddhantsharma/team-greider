@@ -1,10 +1,7 @@
 #!/bin/bash
 
 git clone "https://github.com/ssiddhantsharma/team-greider.git"
-Pwd
-cd ./team-greider
-Pwd
-ls
+cd team-greider
 for file in $(ls);
 do
 	if [[ $file == *.py ]];

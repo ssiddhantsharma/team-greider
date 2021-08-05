@@ -1,9 +1,6 @@
 /******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
+//ZAMARA
+//HACKBIO INTERNSHIP 2021
 *******************************************************************************/
 
 #include <iostream>
@@ -15,8 +12,10 @@ int main()
     //MY DETAILS:
     cout<<"My name: Zamara \n";
     cout<< "Email: zamaram12@gmail.com\n";
-    cout<< "Slack Username: zamara\n";
+    cout<< "Slack Handle: @zamara\n";
+    cout<< "Twitter Handle: @zzmara\n";
     cout<< "Biostack: Drug Development\n";
+    cout<< "Hamming Distance: 1\n";
 
     return 0;
 }

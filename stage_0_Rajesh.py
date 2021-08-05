@@ -11,7 +11,7 @@ print ('E-MAIL: '+email)
 print ('SLACK USERNAME: '+slackuser)
 print ('BIOSTACK: '+biostack)
 print ('TWITTER: '+twitterhandle)
-print ('HAMMING DISTANCE: 1')
+print ('HAMMING DISTANCE: 5')
 
 
 

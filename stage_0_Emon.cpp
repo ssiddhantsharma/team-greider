@@ -11,5 +11,7 @@ void main()
 	printf("G-mail: `mohammedemon.geb.bd@gmail.com' \n");
 	printf("Slack Username: `@Emon' \n");
 	printf("Biostack: `Drug Development' \n");
+	printf("Twitter Username: `@amon' \n");
+	printf("Hamming Distance: `1' \n");
 	getch();
 }

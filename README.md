@@ -36,21 +36,6 @@ The Main goal of the project is write small scripts in different languages with 
 - Linux (awk command must be recognisable in shell)
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-## 💻 Running the tests
-
-### Check if dependencies are satisfied
-
-Script for tests (`tests.sh`) is included in the repo. You can run it with the following command:
-```bash
-wget https://raw.githubusercontent.com/ssiddhantsharma/team-greider/master/tests.sh && sh tests.sh
-```
-The above command will download only the target script and check if all required software is already installed.
-
-### Installing missing dependencies
-
-```bash
-sudo apt-get update && sudo apt-get install python octave julia gcc g++ r nodejs npm
-```
 
 # 📎 Workflow 
 

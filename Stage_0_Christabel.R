@@ -3,8 +3,10 @@ email <- "mbachuanna@gmail.com"
 language <- 'R'
 biostack <- "Genomics"
 slackuser <- "@Christabel"
-data <- data.frame(Details=c(name, email, language, biostack, slackuser))
-rownames(data) <- c('NAME: ', 'E-MAIL: ', 'LANGUAGE: ', 'BIOSTACK: ', 'SLACK USERNAME: ')
+twitter <- "@Christa123"
+HammingD <- "3"
+data <- data.frame(Details=c(name, email, language, biostack, slackuser, twitter, HammingD))
+rownames(data) <- c('NAME: ', 'E-MAIL: ', 'LANGUAGE: ', 'BIOSTACK: ', 'SLACK USERNAME: ', 'TWITTER:', 'HAMMINGD: ')
 colnames <- NULL
 
 print(data)

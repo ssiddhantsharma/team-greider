@@ -35,8 +35,6 @@ The Main goal of the project is write small scripts in different languages with 
 - [Nodejs](https://nodejs.org/uk/download/package-manager/) for javascript
 - Linux (awk command must be recognisable in shell)
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 # 📎 Workflow 
 
 ![](/workflow.png) <br> <br>

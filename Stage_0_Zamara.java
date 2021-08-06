@@ -2,7 +2,7 @@
 //ZAMARA
 *******************************************************************************/
 //HackBio Assignment
-public class Main
+public class Stage_0_Zamara
 {
 	public static void main(String[] args) {
 	  String name = "Zamara";

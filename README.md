@@ -28,7 +28,7 @@ The Main goal of the project is write small scripts in different languages with 
 # 🧬 Getting Started
 ## Prerequisites 
 - [Julia language](https://julialang.org/)
-- [Octave](https://www.gnu.org/software/octave/)
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
 - [Python language](https://www.python.org/)
 - [GCC and G++ compilers](https://gcc.gnu.org/). Available via standard package managers
 - [R language](https://www.r-project.org/)

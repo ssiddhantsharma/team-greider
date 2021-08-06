@@ -2,3 +2,5 @@ list = ["NAME: Siddhant Sharma","EMAIL: siddhaantsharma.ss@gmail.com", "SLACKUSE
  for i in list
        println(i)
        end
+
+#to do hamming distances quickly in Julia, use https://github.com/JuliaStats/Distances.jl

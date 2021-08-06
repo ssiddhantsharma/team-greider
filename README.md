@@ -1,11 +1,16 @@
-<h1 align="left">Hi 👋, We are Team-Greider💝</h1>
-<h3 align="left">The team of 22 people for HackBio'2021 Virtual Bioinformatics Internship 🖨️</h3>
+<h1 align="center"> Hello 🤟 #Team-Greider </h1>
+<h3 align="center">The team of 20 people for HackBio'2021 Virtual Bioinformatics Internship 💝 🖨️</h3>
 
-- 👨‍💻 HackBio Channel [https://thehackbio.com](https://thehackbio.com/)
+- 👨‍💻 HackBio: [https://thehackbio.com](https://thehackbio.com/)
 
 - 💬 Ask us about **Anything Science! We are your friendly neighborhood science people 🔬**
 
 - ⚡ Fun fact **We are a diverse community from many nations🤗**
+
+- 📫 How to reach us? **siddhaantsharma.ss@gmail.com**
+
+<p align="center">
+<a href="https://twitter.com/TheHackbio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" /></a> </p>
 
 # Team-Greider
 
@@ -15,47 +20,71 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-> This is our main repository for the HackBio'2021 Virtual Internship Experience for #Team-Greider. <br>
-Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
+![HackBio](HackBio.jfif) <br>
 
-# 💬 For participants
-## Goals (Stage 0):
-* Make this documentation neat and nice. (Novice Friendly)
-* Complete task 2 (multiple languages)
-* Make a simple bash script for git commit
+> This is the main repository for the Stage_0 task for the HackBio'2021 Virtual Internship Experience for #Team-Greider. <br>
+The Main goal of the project is write small scripts in different languages with the output: `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) ysing different scripts. All members of the team will fork the Github Repository and make the neccesary commits for task for Stage_0. This README.md contains all the necessary information to replicate the workflows for this task. <br>
 
-## Language check
-- [] Python
-- [] Julia
-- [] C++
-- [] R 
-- [] Java
-- [] MATLAB
-- [] Javascript 
-- [] C
+# 🧬 Getting Started
+## Prerequisites 
+- [Julia language](https://julialang.org/)
+- [Octave](https://www.gnu.org/software/octave/)
+- [Python language](https://www.python.org/)
+- [GCC and G++ compilers](https://gcc.gnu.org/). Available via standard package managers
+- [R language](https://www.r-project.org/)
+- [Nodejs](https://nodejs.org/uk/download/package-manager/) for javascript
+- Linux (awk command must be recognisable in shell)
 
-## I am not a coder, what should I choose?
+![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+# 📎 Workflow 
+
+![](/workflow.png) <br> <br>
+![](workflow2.png) <br>
+
+# 🔧 Usage 
+The main goal of the project is to create a bash script that will clone the repo and produce a csv file with the participants' personal information. For this goal no installation is required, however check if all dependencies are satisfied. Please download the following script `csv-populator.sh`. Downloading and running the script can be done from a terminal with the following command:
+```bash
+wget https://raw.githubusercontent.com/ssiddhantsharma/team-greider/master/csv-populator.sh && sh csv-populator.sh
+```
+
+![Terminal](Images/carbon(1).png) <br>
+
+## ⚗️Languages
+- [x] Python - .py
+- [x] Julia  - .jl
+- [x] C++ - .cpp
+- [x] C# - .cs
+- [x] Java - .java
+- [x] C - .c
+- [x] R - .R
+- [x] Ruby - .rb
+
+## I am a newbie...
 Everyone began from something (: Actually the language in this task doesn't matter, as the script is very simple.
 You can search smth similar to "write hello world script in *language_of_interest* ".
 
-If all of the languages are checked, and the requirements (about programming language variety) are satisfied, you are free to choose whatever language you like. A good start is to become more familiar with R or Python. Both of these languages are extremely popular within the bioinformatics community. See templates for "Hello world script" for [R](https://www.geeksforgeeks.org/hello-world-in-r-programming/) and [Python](https://www.learnpython.org/en/Hello,_World!).
+A good start is to become more familiar with R or Python. Both of these languages are extremely popular within the bioinformatics community. See templates for "Hello world script" for [R](https://www.geeksforgeeks.org/hello-world-in-r-programming/) and [Python](https://www.learnpython.org/en/Hello,_World!).
 
-## Unified template for output
-Human text is an excellent example of unstructured data. Desired fields (for this task) can be printed out in many different ways. Therefore I propose a unified template for your script output:
-
+## Unified template for output for #Team-Greider
+Desired fields (for this task) can be printed out in many different ways. Therefore I propose a unified template for your script output:
 
 ```bash
 NAME: *Your full name*
 E-MAIL: *Your e-mail* 
 SLACK USERNAME: @+*username*
-BIOSTACK: *Name of biostack you chose. The only first letter is capital* 
+BIOSTACK: *Name of biostack you chose*
+TWITTER: @+*username*
+HAMMING DISTANCE: *distance*
 ```
 An example:
 ```bash
 NAME: Siddhant Sharma
 E-MAIL: siddhaantsharma.ss@gmail.com
 SLACK USERNAME: @siddhant
-BIOSTACK: Genomics
+BIOSTACK: Medicinal Chemistry and Cheminformatics
+TWITTER: @sidd2508
+HAMMING DISTANCE: 4
 ```
 **After you get the desired output, please name your file _stage_0_slack-username_ <br> An example:** 
 `stage_0_Siddhant.R`
@@ -65,12 +94,3 @@ BIOSTACK: Genomics
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** 🎉
 *Working on your first Pull Request? [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)*
 
-1. Clone the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Thanks! ❤️
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)

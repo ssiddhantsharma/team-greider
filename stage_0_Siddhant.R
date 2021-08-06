@@ -1,8 +1,8 @@
-name <- 'Siddhant Sharma'
-email <- "siddhaantsharma.ss@gmail.com"
-slackuser <- "@Siddhant"
-biostack <- "Transcriptomics"
-data <- data.frame(Information=c(name, email, slackuser, biostack))
-rownames(data) <- c('NAME: ', 'E-MAIL: ', 'SLACK USERNAME: ', 'BIOSTACK: ')
-colnames(data) <- NULL
-print(data)
+NAME <- "Siddhant Sharma"
+EMAIL <- "siddhaantsharma.ss@gmail.com"
+SLACKUSER <- "@Siddhant"
+BIOSTACK <- "Medicinal chemistry and cheminformatics"
+TWITTER <- "@sidd2508"
+HAMMINGD <- "5"
+my_details <- c(NAME, EMAIL, SLACKUSER, BIOSTACK, TWITTER, HAMMINGD)
+cat(paste(my_details, collapse = ','))

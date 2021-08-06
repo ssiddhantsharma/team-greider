@@ -3,10 +3,13 @@ email <- "mbachuanna@gmail.com"
 language <- 'R'
 biostack <- "Genomics"
 slackuser <- "@Christabel"
-twitter <- "@Christa123"
-HammingD <- "3"
-data <- data.frame(Details=c(name, email, language, biostack, slackuser, twitter, HammingD))
-rownames(data) <- c('NAME: ', 'E-MAIL: ', 'LANGUAGE: ', 'BIOSTACK: ', 'SLACK USERNAME: ', 'TWITTER:', 'HAMMINGD: ')
+twitter <- "@kristahbel"
+distance <- sum(a != b)
+data <- data.frame(Details=c(name, email, language, biostack, slackuser, twitter, distance))
+rownames(data) <- c('NAME: ', 'E-MAIL: ', 'LANGUAGE: ', 'BIOSTACK: ', 'SLACK USERNAME: ', 'TWITTER: ', 'DISTANCE: ')
 colnames <- NULL
+a = unlist(strsplit(slackuser, ""))
+b = unlist(strsplit(twitter, ""))
+sum(a != b)
 
 print(data)

@@ -1,0 +1,6 @@
+print("Name: Aderinsola Adebisi")
+print("Email: adebisiaderinsola@gmail.com")
+print("Slack username: @Aderinsola")
+print("Biostack: Drug Development")
+print("Twitter username: @Derinsolar")
+print("Hamming distance: 2")

@@ -12,7 +12,7 @@ do
                 node $file >> $OUTPUT_FILE
         elif [[ $file == *.jl ]];
               then
-                julie $file >> $OUTPUT_FILE
+                julia $file >> $OUTPUT_FILE
         elif [[ $file == *.cpp ]];
               then
                  g++ $file    
@@ -28,7 +28,7 @@ do
                  shell $file  >> $OUTPUT_FILE
         elif [[ $file == *.rb ]];
               then
-                 ruby$file  >> $OUTPUT_FILE
+                 ruby $file  >> $OUTPUT_FILE
         elif [[ $file == *.c ]];
               then
                  gcc $file    

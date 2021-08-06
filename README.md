@@ -40,15 +40,15 @@ The Main goal of the project is write small scripts in different languages with 
 # 📎 Workflow 
 
 ![](/workflow.png) <br> <br>
-![](workflow2.png) <br>
+![](/workflow2.png) <br>
 
 # 🔧 Usage 
 The main goal of the project is to create a bash script that will clone the repo and produce a csv file with the participants' personal information. For this goal no installation is required, however check if all dependencies are satisfied. Please download the following script `csv-populator.sh`. Downloading and running the script can be done from a terminal with the following command:
 ```bash
 wget https://raw.githubusercontent.com/ssiddhantsharma/team-greider/master/csv-populator.sh && sh csv-populator.sh
 ```
-<br> 
-![](terminal.png) <br>
+
+![](/terminal.png) <br>
 
 ## ⚗️Languages
 - [x] Python - .py

@@ -47,8 +47,8 @@ The main goal of the project is to create a bash script that will clone the repo
 ```bash
 wget https://raw.githubusercontent.com/ssiddhantsharma/team-greider/master/csv-populator.sh && sh csv-populator.sh
 ```
-
-![Terminal](Images/carbon(1).png) <br>
+<br> 
+![](terminal.png) <br>
 
 ## ⚗️Languages
 - [x] Python - .py

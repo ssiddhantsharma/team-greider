@@ -26,13 +26,14 @@
 The Main goal of the project is write small scripts in different languages with the output: `name, e-mail, slack_username, biostack, `. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) ysing different scripts. All members of the team will fork the Github Repository and make the neccesary commits for task for Stage_0. This README.md contains all the necessary information to replicate the workflows for this task. <br>
 
 # 🧬 Getting Started
-## Prerequisites 
-- [Julia language](https://julialang.org/)
+## Requirements
+- [Julia](https://julialang.org/)
 - [Ruby](https://www.ruby-lang.org/en/downloads/)
-- [Python language](https://www.python.org/)
+- [Java](https://www.java.com/download/ie_manual.jsp)
+- [Python](https://www.python.org/)
 - [GCC and G++ compilers](https://gcc.gnu.org/). Available via standard package managers
-- [R language](https://www.r-project.org/)
-- [Nodejs](https://nodejs.org/uk/download/package-manager/) for javascript
+- [R](https://www.r-project.org/)
+- [Node.JS](https://nodejs.org/uk/download/package-manager/) for javascript
 - Linux (awk command must be recognisable in shell)
 
 # 📎 Workflow 

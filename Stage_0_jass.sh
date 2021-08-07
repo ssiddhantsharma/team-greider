@@ -1,9 +1,9 @@
-NAME='Siddhant Sharma'
-EMAIL='siddhaantsharma.ss@gmail.com'
-SLACKUSER='@Siddhant'
-BIOSTACK='Medicinal chemistry and cheminformatics'
-TWITTER='@sidd2508'
-HAMMINGD='5'
+NAME='Jaskeerat Singh'
+EMAIL='jsing322@uwo.ca'
+SLACKUSER='@jass'
+BIOSTACK='Genomics'
+TWITTER='@jsin'
+HAMMINGD='3'
 
 echo $NAME','$EMAIL', '$SLACKUSER', '$BIOSTACK','$TWITTER', '$HAMMINGD
 

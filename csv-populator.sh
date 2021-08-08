@@ -2,6 +2,7 @@ REPO=https://github.com/ssiddhantsharma/team-greider.git
 OUTPUT_FILE=team-greider.csv 
 git clone $REPO 
 cd ./team-greider 
+
 for file in $(ls); 
 do 
         if [[ $file == *.py ]];  
